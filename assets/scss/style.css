@@ -1,0 +1,48 @@
+h1 {
+  background-color: rgb(212, 149, 228);
+}
+
+h1 {
+  color: rgb(136, 79, 14);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.postres1 h2 {
+  color: tomato;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.postres:hover {
+  transform: scale(1.2);
+}
+
+.tortas18:hover {
+  transform: scale(1.2);
+}
+
+.bombones:hover {
+  transform: scale(1.2);
+}
+
+html {
+  background-color: rgb(8, 8, 8);
+  height: 100%;
+}
+
+footer {
+  background-color: rgb(219, 149, 247);
+  color: rgb(10, 10, 10);
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.pie {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 20px;
+  width: 100%;
+  background-color: rgb(219, 149, 247);
+}/*# sourceMappingURL=style.css.map */
